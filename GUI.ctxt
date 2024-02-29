@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GUI
+comment1.params=
+comment1.target=GUI()
+comment2.params=
+comment2.target=void\ inicializarGUI()
+comment3.params=
+comment3.target=void\ inicializarBotones()
+comment4.params=
+comment4.target=void\ deshabilitarBotones()
+comment5.params=
+comment5.target=void\ actualizarBotones()
+comment6.params=
+comment6.target=void\ inicializarPeliculas()
+comment7.params=
+comment7.target=void\ inicializarEntradas()
+numComments=8

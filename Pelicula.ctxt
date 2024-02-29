@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Pelicula
+comment1.params=nom
+comment1.target=Pelicula(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ obtenerNombre()
+comment3.params=
+comment3.target=int\ cantidadFilas()
+comment4.params=
+comment4.target=int\ cantidadColumnas()
+comment5.params=f\ c
+comment5.target=boolean\ obtenerButaca(int,\ int)
+comment6.params=f\ c
+comment6.target=void\ ocuparButaca(int,\ int)
+comment7.params=f\ c
+comment7.target=void\ desocuparButaca(int,\ int)
+numComments=8

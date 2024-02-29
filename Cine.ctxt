@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Cine
+comment1.params=cantSalas
+comment1.target=Cine(int)
+comment2.params=
+comment2.target=int\ cantPeliculas()
+comment3.params=
+comment3.target=float\ obtenerValorEntrada()
+comment4.params=idSala
+comment4.target=Pelicula\ obtenerPelicula(int)
+comment5.params=nom
+comment5.target=Pelicula\ obtenerPelicula(java.lang.String)
+comment6.params=nom
+comment6.target=void\ agregarPelicula(java.lang.String)
+numComments=7

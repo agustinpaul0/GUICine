@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Logica
+comment1.params=
+comment1.target=Logica()
+comment10.params=
+comment10.target=void\ disminuirEntradasElegidas()
+comment2.params=
+comment2.target=Cine\ obtenerCine()
+comment3.params=
+comment3.target=Pelicula\ obtenerPeliElegida()
+comment4.params=
+comment4.target=int\ obtenerCantEntradas()
+comment5.params=
+comment5.target=int\ obtenerCantEntradasElegidas()
+comment6.params=
+comment6.target=boolean\ todasEntradasElegidas()
+comment7.params=nom
+comment7.target=void\ elegirPelicula(java.lang.String)
+comment8.params=cant
+comment8.target=void\ modificarCantEntradas(int)
+comment9.params=
+comment9.target=void\ aumentarEntradasElegidas()
+numComments=11
